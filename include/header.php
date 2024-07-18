@@ -75,13 +75,27 @@ include "constant.php";
                   <!-- <li class="dropdown"><a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown"
                       role="button" aria-haspopup="true" aria-expanded="false">Pages </a>
                     <ul class="dropdown-menu"> -->
-                  <li><a href="about-us.php">About Us</a></li>
+                    <li class="dropdown"><a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown"
+                      role="button" aria-haspopup="true" aria-expanded="false">About</a>
+                    <ul class="dropdown-menu">
+                      <li><a href="about-us.php">About Us</a></li>
+                      <li><a href="administration.php">Administration</a></li>
+                      <li><a href="association.php">Association of Body</a></li>
+                      <li><a href="#legalandguide.php">Our Legal and Guide</a></li>
+                    </ul>
+                  </li>
                   <!-- <li><a href="faq.php">FAQ</a></li>
                       <li><a href="coming-soon.php">Coming Soon</a></li>
                       <li><a href="404.php">404</a></li>
                     </ul>
                   </li> -->
-                  <li><a href="services.php">Our Achievement</a></li>
+                  <li class="dropdown"><a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown"
+                      role="button" aria-haspopup="true" aria-expanded="false">Our Achievement</a>
+                    <ul class="dropdown-menu">
+                      <li><a href="services.php">Our Achievement</a></li>
+                      <li><a href="statecordintor.php">State Cordinator</a></li>
+                  </ul>
+                  </li>
                   <!-- <li class="dropdown"><a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown"
                       role="button" aria-haspopup="true" aria-expanded="false">Current Jobs </a>
                     <ul class="dropdown-menu"> -->
