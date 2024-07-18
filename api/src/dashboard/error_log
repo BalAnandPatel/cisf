@@ -1,0 +1,144 @@
+[15-Jul-2024 12:30:43 UTC] PHP Parse error:  syntax error, unexpected identifier "Local", expecting "function" or "const" in /home2/glintqnj/voiceofcisfretiree.in/api/config/database.php on line 12
+[15-Jul-2024 12:30:43 UTC] PHP Parse error:  syntax error, unexpected identifier "Local", expecting "function" or "const" in /home2/glintqnj/voiceofcisfretiree.in/api/config/database.php on line 12
+[15-Jul-2024 12:30:43 UTC] PHP Parse error:  syntax error, unexpected identifier "Local", expecting "function" or "const" in /home2/glintqnj/voiceofcisfretiree.in/api/config/database.php on line 12
+[15-Jul-2024 12:30:43 UTC] PHP Parse error:  syntax error, unexpected identifier "Local", expecting "function" or "const" in /home2/glintqnj/voiceofcisfretiree.in/api/config/database.php on line 12
+[15-Jul-2024 18:01:17 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php:22
+Stack trace:
+#0 /home2/glintqnj/voiceofcisfretiree.in/api/src/dashboard/total_reg_count.php(28): Dashboard->total_reg_count()
+#1 {main}
+  thrown in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php on line 22
+[15-Jul-2024 18:01:17 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php:26
+Stack trace:
+#0 /home2/glintqnj/voiceofcisfretiree.in/api/src/dashboard/total_reg_count.php(28): Dashboard->total_reg_count()
+#1 {main}
+  thrown in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php on line 26
+[15-Jul-2024 18:01:17 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php:29
+Stack trace:
+#0 /home2/glintqnj/voiceofcisfretiree.in/api/src/dashboard/total_reg_count.php(28): Dashboard->total_reg_count()
+#1 {main}
+  thrown in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php on line 29
+[15-Jul-2024 18:01:17 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php:41
+Stack trace:
+#0 /home2/glintqnj/voiceofcisfretiree.in/api/src/dashboard/total_vacancy_count.php(28): Dashboard->total_vacancy_count()
+#1 {main}
+  thrown in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php on line 41
+[15-Jul-2024 18:01:20 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php:22
+Stack trace:
+#0 /home2/glintqnj/voiceofcisfretiree.in/api/src/dashboard/total_reg_count.php(28): Dashboard->total_reg_count()
+#1 {main}
+  thrown in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php on line 22
+[15-Jul-2024 18:01:20 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php:26
+Stack trace:
+#0 /home2/glintqnj/voiceofcisfretiree.in/api/src/dashboard/total_reg_count.php(28): Dashboard->total_reg_count()
+#1 {main}
+  thrown in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php on line 26
+[15-Jul-2024 18:01:20 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php:29
+Stack trace:
+#0 /home2/glintqnj/voiceofcisfretiree.in/api/src/dashboard/total_reg_count.php(28): Dashboard->total_reg_count()
+#1 {main}
+  thrown in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php on line 29
+[15-Jul-2024 18:01:20 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php:41
+Stack trace:
+#0 /home2/glintqnj/voiceofcisfretiree.in/api/src/dashboard/total_vacancy_count.php(28): Dashboard->total_vacancy_count()
+#1 {main}
+  thrown in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php on line 41
+[15-Jul-2024 18:01:54 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php:22
+Stack trace:
+#0 /home2/glintqnj/voiceofcisfretiree.in/api/src/dashboard/total_reg_count.php(28): Dashboard->total_reg_count()
+#1 {main}
+  thrown in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php on line 22
+[15-Jul-2024 18:01:54 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php:26
+Stack trace:
+#0 /home2/glintqnj/voiceofcisfretiree.in/api/src/dashboard/total_reg_count.php(28): Dashboard->total_reg_count()
+#1 {main}
+  thrown in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php on line 26
+[15-Jul-2024 18:01:54 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php:29
+Stack trace:
+#0 /home2/glintqnj/voiceofcisfretiree.in/api/src/dashboard/total_reg_count.php(28): Dashboard->total_reg_count()
+#1 {main}
+  thrown in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php on line 29
+[15-Jul-2024 18:01:54 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php:41
+Stack trace:
+#0 /home2/glintqnj/voiceofcisfretiree.in/api/src/dashboard/total_vacancy_count.php(28): Dashboard->total_vacancy_count()
+#1 {main}
+  thrown in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php on line 41
+[15-Jul-2024 18:02:20 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php:22
+Stack trace:
+#0 /home2/glintqnj/voiceofcisfretiree.in/api/src/dashboard/total_reg_count.php(28): Dashboard->total_reg_count()
+#1 {main}
+  thrown in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php on line 22
+[15-Jul-2024 18:02:20 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php:26
+Stack trace:
+#0 /home2/glintqnj/voiceofcisfretiree.in/api/src/dashboard/total_reg_count.php(28): Dashboard->total_reg_count()
+#1 {main}
+  thrown in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php on line 26
+[15-Jul-2024 18:02:20 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php:29
+Stack trace:
+#0 /home2/glintqnj/voiceofcisfretiree.in/api/src/dashboard/total_reg_count.php(28): Dashboard->total_reg_count()
+#1 {main}
+  thrown in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php on line 29
+[15-Jul-2024 18:02:20 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php:41
+Stack trace:
+#0 /home2/glintqnj/voiceofcisfretiree.in/api/src/dashboard/total_vacancy_count.php(28): Dashboard->total_vacancy_count()
+#1 {main}
+  thrown in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php on line 41
+[15-Jul-2024 18:17:35 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php:22
+Stack trace:
+#0 /home2/glintqnj/voiceofcisfretiree.in/api/src/dashboard/total_reg_count.php(28): Dashboard->total_reg_count()
+#1 {main}
+  thrown in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php on line 22
+[15-Jul-2024 18:17:35 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php:26
+Stack trace:
+#0 /home2/glintqnj/voiceofcisfretiree.in/api/src/dashboard/total_reg_count.php(28): Dashboard->total_reg_count()
+#1 {main}
+  thrown in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php on line 26
+[15-Jul-2024 18:17:35 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php:29
+Stack trace:
+#0 /home2/glintqnj/voiceofcisfretiree.in/api/src/dashboard/total_reg_count.php(28): Dashboard->total_reg_count()
+#1 {main}
+  thrown in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php on line 29
+[15-Jul-2024 18:17:35 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php:41
+Stack trace:
+#0 /home2/glintqnj/voiceofcisfretiree.in/api/src/dashboard/total_vacancy_count.php(28): Dashboard->total_vacancy_count()
+#1 {main}
+  thrown in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php on line 41
+[15-Jul-2024 18:17:39 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php:22
+Stack trace:
+#0 /home2/glintqnj/voiceofcisfretiree.in/api/src/dashboard/total_reg_count.php(28): Dashboard->total_reg_count()
+#1 {main}
+  thrown in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php on line 22
+[15-Jul-2024 18:17:39 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php:26
+Stack trace:
+#0 /home2/glintqnj/voiceofcisfretiree.in/api/src/dashboard/total_reg_count.php(28): Dashboard->total_reg_count()
+#1 {main}
+  thrown in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php on line 26
+[15-Jul-2024 18:17:39 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php:29
+Stack trace:
+#0 /home2/glintqnj/voiceofcisfretiree.in/api/src/dashboard/total_reg_count.php(28): Dashboard->total_reg_count()
+#1 {main}
+  thrown in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php on line 29
+[15-Jul-2024 18:17:39 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php:41
+Stack trace:
+#0 /home2/glintqnj/voiceofcisfretiree.in/api/src/dashboard/total_vacancy_count.php(28): Dashboard->total_vacancy_count()
+#1 {main}
+  thrown in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php on line 41
+[15-Jul-2024 18:17:42 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php:22
+Stack trace:
+#0 /home2/glintqnj/voiceofcisfretiree.in/api/src/dashboard/total_reg_count.php(28): Dashboard->total_reg_count()
+#1 {main}
+  thrown in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php on line 22
+[15-Jul-2024 18:17:42 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php:26
+Stack trace:
+#0 /home2/glintqnj/voiceofcisfretiree.in/api/src/dashboard/total_reg_count.php(28): Dashboard->total_reg_count()
+#1 {main}
+  thrown in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php on line 26
+[15-Jul-2024 18:17:43 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php:29
+Stack trace:
+#0 /home2/glintqnj/voiceofcisfretiree.in/api/src/dashboard/total_reg_count.php(28): Dashboard->total_reg_count()
+#1 {main}
+  thrown in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php on line 29
+[15-Jul-2024 18:17:43 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php:41
+Stack trace:
+#0 /home2/glintqnj/voiceofcisfretiree.in/api/src/dashboard/total_vacancy_count.php(28): Dashboard->total_vacancy_count()
+#1 {main}
+  thrown in /home2/glintqnj/voiceofcisfretiree.in/api/objects/dashboard.php on line 41

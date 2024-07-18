@@ -1,0 +1,273 @@
+[31-Jan-2024 18:10:23 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 30
+[31-Jan-2024 18:10:23 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 30
+[31-Jan-2024 18:10:23 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 30
+[31-Jan-2024 18:10:23 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 34
+[31-Jan-2024 18:10:23 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 34
+[31-Jan-2024 18:10:23 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 34
+[31-Jan-2024 18:10:23 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 38
+[31-Jan-2024 18:10:23 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 38
+[31-Jan-2024 18:10:23 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 38
+[31-Jan-2024 18:10:23 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 42
+[31-Jan-2024 18:10:23 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 42
+[31-Jan-2024 18:10:23 Asia/Kolkata] PHP Warning:  Attempt to read property "exam_count" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 42
+[31-Jan-2024 18:11:20 Asia/Kolkata] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/glintqnj/glintel.com/pspgroup/admin/pending registration_list.php on line 89
+[31-Jan-2024 18:11:30 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 30
+[31-Jan-2024 18:11:30 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 30
+[31-Jan-2024 18:11:30 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 30
+[31-Jan-2024 18:11:30 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 34
+[31-Jan-2024 18:11:30 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 34
+[31-Jan-2024 18:11:30 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 34
+[31-Jan-2024 18:11:31 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 38
+[31-Jan-2024 18:11:31 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 38
+[31-Jan-2024 18:11:31 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 38
+[31-Jan-2024 18:11:31 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 42
+[31-Jan-2024 18:11:31 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 42
+[31-Jan-2024 18:11:31 Asia/Kolkata] PHP Warning:  Attempt to read property "exam_count" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 42
+[31-Jan-2024 18:15:19 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 30
+[31-Jan-2024 18:15:19 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 30
+[31-Jan-2024 18:15:19 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 30
+[31-Jan-2024 18:15:19 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 34
+[31-Jan-2024 18:15:19 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 34
+[31-Jan-2024 18:15:19 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 34
+[31-Jan-2024 18:15:19 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 38
+[31-Jan-2024 18:15:19 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 38
+[31-Jan-2024 18:15:19 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 38
+[31-Jan-2024 18:15:19 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 42
+[31-Jan-2024 18:15:19 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 42
+[31-Jan-2024 18:15:19 Asia/Kolkata] PHP Warning:  Attempt to read property "exam_count" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 42
+[31-Jan-2024 18:15:38 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 30
+[31-Jan-2024 18:15:38 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 30
+[31-Jan-2024 18:15:38 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 30
+[31-Jan-2024 18:15:38 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 34
+[31-Jan-2024 18:15:38 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 34
+[31-Jan-2024 18:15:38 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 34
+[31-Jan-2024 18:15:38 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 38
+[31-Jan-2024 18:15:38 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 38
+[31-Jan-2024 18:15:38 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 38
+[31-Jan-2024 18:15:38 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 42
+[31-Jan-2024 18:15:38 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 42
+[31-Jan-2024 18:15:38 Asia/Kolkata] PHP Warning:  Attempt to read property "exam_count" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 42
+[31-Jan-2024 18:15:46 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 30
+[31-Jan-2024 18:15:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 30
+[31-Jan-2024 18:15:46 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 30
+[31-Jan-2024 18:15:46 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 34
+[31-Jan-2024 18:15:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 34
+[31-Jan-2024 18:15:46 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 34
+[31-Jan-2024 18:15:46 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 38
+[31-Jan-2024 18:15:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 38
+[31-Jan-2024 18:15:46 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 38
+[31-Jan-2024 18:15:46 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 42
+[31-Jan-2024 18:15:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 42
+[31-Jan-2024 18:15:46 Asia/Kolkata] PHP Warning:  Attempt to read property "exam_count" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 42
+[31-Jan-2024 18:16:32 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 30
+[31-Jan-2024 18:16:32 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 30
+[31-Jan-2024 18:16:32 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 30
+[31-Jan-2024 18:16:32 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 34
+[31-Jan-2024 18:16:32 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 34
+[31-Jan-2024 18:16:32 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 34
+[31-Jan-2024 18:16:32 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 38
+[31-Jan-2024 18:16:32 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 38
+[31-Jan-2024 18:16:32 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 38
+[31-Jan-2024 18:16:33 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 42
+[31-Jan-2024 18:16:33 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 42
+[31-Jan-2024 18:16:33 Asia/Kolkata] PHP Warning:  Attempt to read property "exam_count" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 42
+[31-Jan-2024 18:16:55 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 30
+[31-Jan-2024 18:16:55 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 30
+[31-Jan-2024 18:16:55 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 30
+[31-Jan-2024 18:16:55 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 34
+[31-Jan-2024 18:16:55 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 34
+[31-Jan-2024 18:16:55 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 34
+[31-Jan-2024 18:16:55 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 38
+[31-Jan-2024 18:16:55 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 38
+[31-Jan-2024 18:16:55 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 38
+[31-Jan-2024 18:16:56 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 42
+[31-Jan-2024 18:16:56 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 42
+[31-Jan-2024 18:16:56 Asia/Kolkata] PHP Warning:  Attempt to read property "exam_count" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 42
+[31-Jan-2024 18:25:29 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 30
+[31-Jan-2024 18:25:29 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 30
+[31-Jan-2024 18:25:29 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 30
+[31-Jan-2024 18:25:30 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 34
+[31-Jan-2024 18:25:30 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 34
+[31-Jan-2024 18:25:30 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 34
+[31-Jan-2024 18:25:30 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 38
+[31-Jan-2024 18:25:30 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 38
+[31-Jan-2024 18:25:30 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 38
+[31-Jan-2024 18:25:30 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 42
+[31-Jan-2024 18:25:30 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 42
+[31-Jan-2024 18:25:30 Asia/Kolkata] PHP Warning:  Attempt to read property "exam_count" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 42
+[31-Jan-2024 19:38:17 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 30
+[31-Jan-2024 19:38:17 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 30
+[31-Jan-2024 19:38:17 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 30
+[31-Jan-2024 19:38:17 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 34
+[31-Jan-2024 19:38:17 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 34
+[31-Jan-2024 19:38:17 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 34
+[31-Jan-2024 19:38:17 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 38
+[31-Jan-2024 19:38:17 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 38
+[31-Jan-2024 19:38:17 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 38
+[31-Jan-2024 19:38:17 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 42
+[31-Jan-2024 19:38:17 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 42
+[31-Jan-2024 19:38:17 Asia/Kolkata] PHP Warning:  Attempt to read property "exam_count" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 42
+[01-Feb-2024 09:33:14 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 30
+[01-Feb-2024 09:33:14 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 30
+[01-Feb-2024 09:33:14 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 30
+[01-Feb-2024 09:33:14 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 34
+[01-Feb-2024 09:33:14 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 34
+[01-Feb-2024 09:33:14 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 34
+[01-Feb-2024 09:33:15 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 38
+[01-Feb-2024 09:33:15 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 38
+[01-Feb-2024 09:33:15 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 38
+[01-Feb-2024 09:33:15 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 42
+[01-Feb-2024 09:33:15 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 42
+[01-Feb-2024 09:33:15 Asia/Kolkata] PHP Warning:  Attempt to read property "exam_count" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 42
+[01-Feb-2024 11:22:48 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 30
+[01-Feb-2024 11:22:48 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 30
+[01-Feb-2024 11:22:48 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 30
+[01-Feb-2024 11:22:48 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 34
+[01-Feb-2024 11:22:48 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 34
+[01-Feb-2024 11:22:48 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 34
+[01-Feb-2024 11:22:48 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 38
+[01-Feb-2024 11:22:48 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 38
+[01-Feb-2024 11:22:48 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 38
+[01-Feb-2024 11:22:49 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 42
+[01-Feb-2024 11:22:49 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 42
+[01-Feb-2024 11:22:49 Asia/Kolkata] PHP Warning:  Attempt to read property "exam_count" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 42
+[01-Feb-2024 17:13:59 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 30
+[01-Feb-2024 17:13:59 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 30
+[01-Feb-2024 17:13:59 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 30
+[01-Feb-2024 17:14:00 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 34
+[01-Feb-2024 17:14:00 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 34
+[01-Feb-2024 17:14:00 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 34
+[01-Feb-2024 17:14:00 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 38
+[01-Feb-2024 17:14:00 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 38
+[01-Feb-2024 17:14:00 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 38
+[01-Feb-2024 17:14:00 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 42
+[01-Feb-2024 17:14:00 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 42
+[01-Feb-2024 17:14:00 Asia/Kolkata] PHP Warning:  Attempt to read property "exam_count" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 42
+[01-Feb-2024 17:14:12 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 30
+[01-Feb-2024 17:14:12 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 30
+[01-Feb-2024 17:14:12 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 30
+[01-Feb-2024 17:14:12 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 34
+[01-Feb-2024 17:14:12 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 34
+[01-Feb-2024 17:14:12 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 34
+[01-Feb-2024 17:14:12 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 38
+[01-Feb-2024 17:14:12 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 38
+[01-Feb-2024 17:14:12 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 38
+[01-Feb-2024 17:14:12 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 42
+[01-Feb-2024 17:14:12 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 42
+[01-Feb-2024 17:14:12 Asia/Kolkata] PHP Warning:  Attempt to read property "exam_count" on null in /home2/glintqnj/glintel.com/pspgroup/admin/adm_dashboard.php on line 42
+[01-Feb-2024 17:14:21 Asia/Kolkata] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/glintqnj/glintel.com/pspgroup/admin/notification_list.php on line 75
+[01-Feb-2024 17:23:55 Asia/Kolkata] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/glintqnj/glintel.com/pspgroup/admin/notification_list.php on line 75
+[01-Feb-2024 17:26:18 Asia/Kolkata] PHP Warning:  foreach() argument must be of type array|object, string given in /home2/glintqnj/glintel.com/pspgroup/admin/notification_list.php on line 76
+[01-Feb-2024 17:30:59 Asia/Kolkata] PHP Warning:  foreach() argument must be of type array|object, string given in /home2/glintqnj/glintel.com/pspgroup/admin/pending registration_list.php on line 90
+[01-Feb-2024 17:35:32 Asia/Kolkata] PHP Warning:  foreach() argument must be of type array|object, string given in /home2/glintqnj/glintel.com/pspgroup/admin/pending registration_list.php on line 90
+[01-Feb-2024 17:39:44 Asia/Kolkata] PHP Warning:  foreach() argument must be of type array|object, string given in /home2/glintqnj/glintel.com/pspgroup/admin/gallery_record.php on line 79
+[01-Feb-2024 20:14:56 Asia/Kolkata] PHP Warning:  foreach() argument must be of type array|object, string given in /home2/glintqnj/glintel.com/pspgroup/admin/notification_list.php on line 76
+[01-Feb-2024 20:16:27 Asia/Kolkata] PHP Warning:  foreach() argument must be of type array|object, string given in /home2/glintqnj/glintel.com/pspgroup/admin/notification_list.php on line 76
+[11-Apr-2024 11:50:48 Asia/Kolkata] PHP Warning:  foreach() argument must be of type array|object, string given in /home2/glintqnj/mlm/pspteam.org/admin/gallery_video_records.php on line 80
+[11-Apr-2024 11:50:55 Asia/Kolkata] PHP Warning:  foreach() argument must be of type array|object, string given in /home2/glintqnj/mlm/pspteam.org/admin/gallery_news_record.php on line 79
+[15-Apr-2024 12:37:01 Asia/Kolkata] PHP Warning:  foreach() argument must be of type array|object, string given in /home2/glintqnj/mlm/pspteam.org/admin/exam_list.php on line 83
+[15-Apr-2024 16:31:19 Asia/Kolkata] PHP Warning:  foreach() argument must be of type array|object, string given in /home2/glintqnj/mlm/pspteam.org/admin/notification_list.php on line 76
+[16-Apr-2024 16:44:40 Asia/Kolkata] PHP Warning:  foreach() argument must be of type array|object, string given in /home2/glintqnj/mlm/pspteam.org/admin/pending registration_list.php on line 90
+[16-Apr-2024 17:06:00 Asia/Kolkata] PHP Warning:  foreach() argument must be of type array|object, string given in /home2/glintqnj/mlm/pspteam.org/admin/pending registration_list.php on line 90
+[18-Apr-2024 08:25:40 Asia/Kolkata] PHP Warning:  foreach() argument must be of type array|object, string given in /home2/glintqnj/mlm/pspteam.org/admin/gallery_record.php on line 79
+[18-Apr-2024 08:48:50 Asia/Kolkata] PHP Warning:  foreach() argument must be of type array|object, string given in /home2/glintqnj/mlm/pspteam.org/admin/gallery_record.php on line 79
+[19-Apr-2024 17:42:48 Asia/Kolkata] PHP Warning:  foreach() argument must be of type array|object, string given in /home2/glintqnj/mlm/pspteam.org/admin/notification_list.php on line 76
+[28-Apr-2024 11:56:16 Asia/Kolkata] PHP Warning:  foreach() argument must be of type array|object, string given in /home2/glintqnj/mlm/pspteam.org/admin/notification_list.php on line 76
+[16-Jun-2024 09:12:55 Asia/Kolkata] PHP Warning:  foreach() argument must be of type array|object, string given in /home2/glintqnj/mlm/pspteam.org/admin/exam_list.php on line 83
+[01-Jul-2024 15:30:52 Asia/Kolkata] PHP Warning:  foreach() argument must be of type array|object, string given in /home2/glintqnj/mlm/pspteam.org/admin/exam_list.php on line 83
+[15-Jul-2024 18:00:43 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 30
+[15-Jul-2024 18:00:43 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 30
+[15-Jul-2024 18:00:43 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 30
+[15-Jul-2024 18:00:43 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 34
+[15-Jul-2024 18:00:43 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 34
+[15-Jul-2024 18:00:43 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 34
+[15-Jul-2024 18:00:43 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 38
+[15-Jul-2024 18:00:43 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 38
+[15-Jul-2024 18:00:43 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 38
+[15-Jul-2024 18:00:43 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 42
+[15-Jul-2024 18:00:43 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 42
+[15-Jul-2024 18:00:43 Asia/Kolkata] PHP Warning:  Attempt to read property "exam_count" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 42
+[15-Jul-2024 18:01:17 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 30
+[15-Jul-2024 18:01:17 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 30
+[15-Jul-2024 18:01:17 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 30
+[15-Jul-2024 18:01:17 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 34
+[15-Jul-2024 18:01:17 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 34
+[15-Jul-2024 18:01:17 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 34
+[15-Jul-2024 18:01:17 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 38
+[15-Jul-2024 18:01:17 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 38
+[15-Jul-2024 18:01:17 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 38
+[15-Jul-2024 18:01:17 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 42
+[15-Jul-2024 18:01:17 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 42
+[15-Jul-2024 18:01:17 Asia/Kolkata] PHP Warning:  Attempt to read property "exam_count" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 42
+[15-Jul-2024 18:01:20 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 30
+[15-Jul-2024 18:01:20 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 30
+[15-Jul-2024 18:01:20 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 30
+[15-Jul-2024 18:01:20 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 34
+[15-Jul-2024 18:01:20 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 34
+[15-Jul-2024 18:01:20 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 34
+[15-Jul-2024 18:01:20 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 38
+[15-Jul-2024 18:01:20 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 38
+[15-Jul-2024 18:01:20 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 38
+[15-Jul-2024 18:01:20 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 42
+[15-Jul-2024 18:01:20 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 42
+[15-Jul-2024 18:01:20 Asia/Kolkata] PHP Warning:  Attempt to read property "exam_count" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 42
+[15-Jul-2024 18:01:54 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 30
+[15-Jul-2024 18:01:54 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 30
+[15-Jul-2024 18:01:54 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 30
+[15-Jul-2024 18:01:54 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 34
+[15-Jul-2024 18:01:54 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 34
+[15-Jul-2024 18:01:54 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 34
+[15-Jul-2024 18:01:54 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 38
+[15-Jul-2024 18:01:54 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 38
+[15-Jul-2024 18:01:54 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 38
+[15-Jul-2024 18:01:54 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 42
+[15-Jul-2024 18:01:54 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 42
+[15-Jul-2024 18:01:54 Asia/Kolkata] PHP Warning:  Attempt to read property "exam_count" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 42
+[15-Jul-2024 18:02:20 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 30
+[15-Jul-2024 18:02:20 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 30
+[15-Jul-2024 18:02:20 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 30
+[15-Jul-2024 18:02:20 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 34
+[15-Jul-2024 18:02:20 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 34
+[15-Jul-2024 18:02:20 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 34
+[15-Jul-2024 18:02:20 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 38
+[15-Jul-2024 18:02:20 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 38
+[15-Jul-2024 18:02:20 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 38
+[15-Jul-2024 18:02:20 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 42
+[15-Jul-2024 18:02:20 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 42
+[15-Jul-2024 18:02:20 Asia/Kolkata] PHP Warning:  Attempt to read property "exam_count" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 42
+[15-Jul-2024 18:17:35 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 30
+[15-Jul-2024 18:17:35 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 30
+[15-Jul-2024 18:17:35 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 30
+[15-Jul-2024 18:17:35 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 34
+[15-Jul-2024 18:17:35 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 34
+[15-Jul-2024 18:17:35 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 34
+[15-Jul-2024 18:17:35 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 38
+[15-Jul-2024 18:17:35 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 38
+[15-Jul-2024 18:17:35 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 38
+[15-Jul-2024 18:17:35 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 42
+[15-Jul-2024 18:17:35 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 42
+[15-Jul-2024 18:17:35 Asia/Kolkata] PHP Warning:  Attempt to read property "exam_count" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 42
+[15-Jul-2024 18:17:39 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 30
+[15-Jul-2024 18:17:39 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 30
+[15-Jul-2024 18:17:39 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 30
+[15-Jul-2024 18:17:39 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 34
+[15-Jul-2024 18:17:39 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 34
+[15-Jul-2024 18:17:39 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 34
+[15-Jul-2024 18:17:39 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 38
+[15-Jul-2024 18:17:39 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 38
+[15-Jul-2024 18:17:39 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 38
+[15-Jul-2024 18:17:39 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 42
+[15-Jul-2024 18:17:39 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 42
+[15-Jul-2024 18:17:39 Asia/Kolkata] PHP Warning:  Attempt to read property "exam_count" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 42
+[15-Jul-2024 18:17:42 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 30
+[15-Jul-2024 18:17:42 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 30
+[15-Jul-2024 18:17:42 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 30
+[15-Jul-2024 18:17:42 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 34
+[15-Jul-2024 18:17:42 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 34
+[15-Jul-2024 18:17:42 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 34
+[15-Jul-2024 18:17:43 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 38
+[15-Jul-2024 18:17:43 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 38
+[15-Jul-2024 18:17:43 Asia/Kolkata] PHP Warning:  Attempt to read property "reg_count" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 38
+[15-Jul-2024 18:17:43 Asia/Kolkata] PHP Warning:  Attempt to read property "records" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 42
+[15-Jul-2024 18:17:43 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 42
+[15-Jul-2024 18:17:43 Asia/Kolkata] PHP Warning:  Attempt to read property "exam_count" on null in /home2/glintqnj/voiceofcisfretiree.in/admin/adm_dashboard.php on line 42

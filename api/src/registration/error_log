@@ -1,0 +1,8 @@
+[15-Apr-2024 18:12:14 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$status in /home2/glintqnj/mlm/pspteam.org/api/src/registration/reg_update_approve.php on line 35
+[15-Apr-2024 18:12:42 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$status in /home2/glintqnj/mlm/pspteam.org/api/src/registration/reg_update_approve.php on line 35
+[18-Apr-2024 17:23:29 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$id in /home2/glintqnj/mlm/pspteam.org/api/src/registration/read_profile_by_id.php on line 24
+[15-Jul-2024 18:17:47 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/glintqnj/voiceofcisfretiree.in/api/objects/registration.php:380
+Stack trace:
+#0 /home2/glintqnj/voiceofcisfretiree.in/api/src/registration/read_registration_by_status.php(27): registration->read_registration_by_status()
+#1 {main}
+  thrown in /home2/glintqnj/voiceofcisfretiree.in/api/objects/registration.php on line 380
